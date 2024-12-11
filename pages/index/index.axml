@@ -1,0 +1,9 @@
+
+<view class="contain">
+
+  <search></search>
+  <view>
+    categorias
+  </view>
+  <cards characters={{characters}}></cards>
+</view>

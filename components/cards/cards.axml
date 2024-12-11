@@ -1,0 +1,10 @@
+<view class="view-cards">
+  <view class="card" a:for="{{ characters }}">
+    <view class="image">
+      <image  mode="aspectFill" src="{{item.image}}" onError="imageError" onLoad="imageLoad" />
+    </view>
+
+      <text class="name">{{item.name}}</text>
+      <text class="location">{{item.location.name}}</text>
+  </view>
+</view>

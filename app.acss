@@ -1,0 +1,6 @@
+page {
+  flex: 1;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f7f7f7;
+  padding: 10rpx;
+}

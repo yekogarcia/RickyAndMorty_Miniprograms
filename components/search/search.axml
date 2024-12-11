@@ -1,0 +1,3 @@
+<view class="view-search">
+  <input type="text" placeholder="Search" />
+</view>
